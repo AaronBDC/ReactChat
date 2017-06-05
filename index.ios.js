@@ -24,7 +24,7 @@ export default class ReactChat extends Component {
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          Cmd+D or srake for dev menu
         </Text>
       </View>
     );
